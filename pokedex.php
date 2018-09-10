@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="es">
+<html lang="es"> 
     <head>
         <title>Pokedex</title>
         <meta charset="utf-8"/>
