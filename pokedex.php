@@ -10,7 +10,7 @@
         <div class="pokehead"> <!--Buscador de pokemons-->
             <div class="titulo"><h2>Pokedex</h2></div>
             <div class="buscar"> 	
-                        <form method="POST" action="pokedexf.php" >
+                        <form method="POST" action="pokedex.php" >
                         <input class="buscado" type="text" name="whoisthatpokemon" autofocus>
                         </form>
             </div>
